@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://swastik:swastik123@devconnector.qpvmd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "DevcamperSecretJWT"
+}
